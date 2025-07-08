@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# PyCharm
+.idea/
+
+# 虛擬環境
+.venv/
+
+# 系統檔案
+.DS_Store
+Thumbs.db
