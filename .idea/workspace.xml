@@ -8,20 +8,31 @@
       <change afterPath="$PROJECT_DIR$/Initial test/excel_io.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Initial test/main.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Initial test/plc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/version_log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example.xlsx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/modules/autosave.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/modules/import_export.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/modules/plc_interface.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/modules/version_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipe_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/board_parameters/RecipeName_BatchNumber.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/board_parameters/Sheet1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/board_parameters/Sheet100.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/board_parameters/Sheet1000.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_autosave.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_import_export.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tests/test_plc_interface.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/tests/test_version_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui_v0.ui" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/CP-I PLC data logger.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CP-I PLC data logger.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Recipe_System/recipes/board_parameters/board_template.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Recipe_System/recipes/board_parameters/board_template.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/excel_io.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_autosave.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/excel_io.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/Initial test/gui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plc.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_import_export.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plc.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +48,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "IMTT-Willy"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/IMTT-Willy/PLC-Recipe-System.git",
+    "accountId": "a34c5886-9105-4480-8316-5d0c66001d13"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
